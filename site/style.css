@@ -1,0 +1,224 @@
+body {
+    width: 1440px;
+    height: 2689px;
+}
+
+ul.topleft {
+    list-style: none;
+}
+
+.esc {
+    width: 92px;
+    height: 26px;
+    margin-top: 20px;
+    margin-left: 250px;
+    float: left;
+}
+
+.hom {
+    width: 39px;
+    height: 20px;
+    margin-top: 27px;
+    margin-left: 491px;
+    float: left;
+    text-transform: uppercase;
+    font-family: 'Oxygen';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.6000000238418579px;
+    text-align: left;
+    color: #2E2E2E;
+}
+
+.ctg {
+    width: 78px;
+    height: 20px;
+    margin-top: 27px;
+    margin-left: 41px;
+    float: left;
+    text-transform: uppercase;
+    font-family: 'Oxygen';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.6000000238418579px;
+    text-align: left;
+    color: #2E2E2E;
+}
+
+.abt {
+    width: 41px;
+    height: 20px;
+    margin-top: 27px;
+    margin-left: 40px;
+    float: left;
+    text-transform: uppercase;
+    font-family: 'Oxygen';
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.6000000238418579px;
+    text-align: left;
+    color: #2E2E2E;
+}
+
+.cnt {
+    width: 58px;
+    height: 20px;
+    margin-top: 27px;
+    margin-left: 40px;
+    float: left;
+    text-transform: uppercase;
+    font-family: 'Oxygen';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.6000000238418579px;
+    text-align: left;
+    color: #2E2E2E;
+}
+
+.head {
+    width: 498px;
+    height: 51px;
+    margin-top: 109px;
+    margin-left: 471px;
+    float: left;
+    font-family: 'Lora';
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 51px;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #2E2E2E;
+}
+
+.sub {
+    width: 504px;
+    height: 20px;
+    margin-left: 468px;
+    float: left;
+    font-family: 'Oxygen';
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #2E2E2EA1;
+}
+
+.sky {
+    width: 1440px;
+    height: 534px;
+    margin-top: 113px;
+}
+
+.main {
+    width: 960px;
+    height: 1431px;
+    margin-left: 240px;
+    margin-top: 140px;
+    font-family: 'Oxygen';
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #101315;
+}
+
+.bottomimg {
+    width: 1440px;
+    height: 89px;
+    margin-top: 135px;
+}
+
+.footer {
+    margin-top: 135px;
+    width: 1440px;
+    height: 89px;
+    background-color: #232F3899;
+    background-image: url(bottom.png);
+    background-blend-mode: multiply;
+    display: flex;
+}
+
+ul.bottomtext {
+    list-style: none;
+}
+
+.esc1 {
+    width: 92px;
+    height: 26px;
+    margin-top: 20px;
+    margin-left: 250px;
+    float: left;
+}
+
+.hom1 {
+    width: 39px;
+    height: 20px;
+    margin-top: 27px;
+    margin-left: 491px;
+    float: left;
+    text-transform: uppercase;
+    font-family: 'Oxygen';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.6000000238418579px;
+    text-align: left;
+    color: #FFFFFF99;
+}
+
+.ctg1 {
+    width: 78px;
+    height: 20px;
+    margin-top: 27px;
+    margin-left: 41px;
+    float: left;
+    text-transform: uppercase;
+    font-family: 'Oxygen';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.6000000238418579px;
+    text-align: left;
+    color:  #FFFFFF99;
+    opacity: 60%;
+}
+
+.abt1 {
+    width: 41px;
+    height: 20px;
+    margin-top: 27px;
+    margin-left: 40px;
+    float: left;
+    text-transform: uppercase;
+    font-family: 'Oxygen';
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.6000000238418579px;
+    text-align: left;
+    color: #FFFFFF99;
+    opacity: 60%;
+}
+
+.cnt1 {
+    width: 58px;
+    height: 20px;
+    margin-top: 27px;
+    margin-left: 40px;
+    float: left;
+    text-transform: uppercase;
+    font-family: 'Oxygen';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.6000000238418579px;
+    text-align: left;
+    color: #FFFFFF99;
+    opacity: 60%;
+}
