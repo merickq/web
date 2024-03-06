@@ -1,0 +1,209 @@
+/*
+1) Фиксированная ширина и высота - аморально
+2) 
+*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ul.topleft {
+    list-style: none;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.esc {
+    margin-top: 20px;
+    margin-left: 250px;
+    float: left;
+}
+
+.hom {
+    margin-top: 27px;
+    margin-left: 491px;
+    float: left;
+    text-transform: uppercase;
+    font-family: 'Oxygen';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: #2E2E2E;
+}
+
+.ctg {
+    margin-top: 27px;
+    margin-left: 41px;
+    float: left;
+    text-transform: uppercase;
+    font-family: 'Oxygen';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: #2E2E2E;
+}
+
+.abt {
+    margin-top: 27px;
+    margin-left: 40px;
+    float: left;
+    text-transform: uppercase;
+    font-family: 'Oxygen';
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: #2E2E2E;
+}
+
+.cnt {
+    margin-top: 27px;
+    margin-left: 40px;
+    float: left;
+    text-transform: uppercase;
+    font-family: 'Oxygen';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: #2E2E2E;
+}
+
+.head {
+    width: 100%;
+    margin-top: 109px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    font-family: 'Lora';
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 51px;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #2E2E2E;
+}
+
+.sub {
+    width: 100%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    font-family: 'Oxygen';
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #2E2E2EA1;
+}
+
+.sky {
+    margin-top: 113px;
+    width: 100%;
+    height: 100%;
+}
+
+.main {
+    margin-right: 240px;
+    margin-left: 240px;
+    margin-top: 140px;
+    font-family: 'Oxygen';
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #101315;
+}
+
+.bottomimg {
+    margin-top: 135px;
+}
+
+.footer {
+    margin-top: 135px;
+    background-color: #232F3899;
+    background-image: url(bottom.png);
+    background-blend-mode: multiply;
+    display: flex;
+}
+
+ul.bottom-text {
+    list-style: none;
+}
+
+.esc1 {
+    margin-top: 20px;
+    margin-left: 250px;
+    float: left;
+    margin-bottom: 32px;
+}
+
+.hom1 {
+    margin-top: 27px;
+    margin-left: 491px;
+    float: left;
+    text-transform: uppercase;
+    font-family: 'Oxygen';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: #FFFFFF99;
+    opacity: 60%;
+}
+
+.ctg1 {
+    margin-top: 27px;
+    margin-left: 41px;
+    float: left;
+    text-transform: uppercase;
+    font-family: 'Oxygen';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color:  #FFFFFF99;
+    opacity: 60%;
+}
+
+.abt1 {
+    margin-top: 27px;
+    margin-left: 40px;
+    float: left;
+    text-transform: uppercase;
+    font-family: 'Oxygen';
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: #FFFFFF99;
+    opacity: 60%;
+}
+
+.cnt1 {
+    margin-top: 27px;
+    margin-left: 40px;
+    float: left;
+    text-transform: uppercase;
+    font-family: 'Oxygen';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: #FFFFFF99;
+    opacity: 60%;
+}
